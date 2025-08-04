@@ -1,0 +1,25 @@
+2025-08-04 23:58:46,719 - INFO - Starting SMS test to 09374305151 with 15 services in 1 rounds
+2025-08-04 23:58:47,629 - INFO - Service: Divar, Status: success
+2025-08-04 23:58:47,912 - INFO - Service: Sheypoor, Status: success
+2025-08-04 23:58:48,139 - INFO - Service: Snapp, Status: success
+2025-08-04 23:58:48,574 - INFO - Service: Filimo, Status: failed (status: 405)
+2025-08-04 23:58:48,997 - INFO - Service: Basalam, Status: success
+2025-08-04 23:58:49,383 - INFO - Service: Tap30, Status: failed (status: 404)
+2025-08-04 23:58:49,418 - INFO - Service: DigiKala, Status: success
+2025-08-04 23:58:49,521 - INFO - Service: Namava, Status: success
+2025-08-04 23:58:49,625 - INFO - Service: Torob, Status: failed (status: 404)
+2025-08-04 23:58:50,073 - INFO - Service: Aparat, Status: failed (status: 405)
+2025-08-04 23:58:50,572 - INFO - Service: Okala, Status: failed (status: 583)
+2025-08-04 23:58:50,748 - INFO - Service: Alibaba, Status: success
+2025-08-04 23:58:51,210 - INFO - Service: Gap, Status: success
+2025-08-04 23:58:52,851 - INFO - Service: Digistyle, Status: failed (status: 404)
+2025-08-04 23:58:59,632 - INFO - Service: Shad, Status: error: HTTPSConnectionPool(host='authbeta.snd.ir', port=443): Read timed out. (read timeout=10)
+2025-08-05 00:01:16,183 - INFO - Starting SMS test to 09374305151 with 8 services in 1 rounds
+2025-08-05 00:01:16,974 - INFO - Service: Divar, Status: success
+2025-08-05 00:01:17,067 - INFO - Service: Alibaba, Status: success
+2025-08-05 00:01:17,150 - INFO - Service: Snapp, Status: failed (status: 500)
+2025-08-05 00:01:17,661 - INFO - Service: Namava, Status: success
+2025-08-05 00:01:17,808 - INFO - Service: Sheypoor, Status: success
+2025-08-05 00:01:18,445 - INFO - Service: DigiKala, Status: success
+2025-08-05 00:01:18,563 - INFO - Service: Gap, Status: success
+2025-08-05 00:01:19,193 - INFO - Service: Basalam, Status: success
