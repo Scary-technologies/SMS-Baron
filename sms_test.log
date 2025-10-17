@@ -23,3 +23,43 @@
 2025-08-05 00:01:18,445 - INFO - Service: DigiKala, Status: success
 2025-08-05 00:01:18,563 - INFO - Service: Gap, Status: success
 2025-08-05 00:01:19,193 - INFO - Service: Basalam, Status: success
+2025-10-17 23:01:49,376 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.104:5000
+2025-10-17 23:01:49,376 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-17 23:01:49,408 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-17 23:01:50,169 - WARNING -  * Debugger is active!
+2025-10-17 23:01:50,174 - INFO -  * Debugger PIN: 134-533-213
+2025-10-17 23:02:43,245 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.104:5000
+2025-10-17 23:02:43,245 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-17 23:02:43,270 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-17 23:02:43,850 - WARNING -  * Debugger is active!
+2025-10-17 23:02:43,853 - INFO -  * Debugger PIN: 134-533-213
+2025-10-17 23:02:54,302 - INFO - 127.0.0.1 - - [17/Oct/2025 23:02:54] "GET / HTTP/1.1" 200 -
+2025-10-17 23:02:54,578 - INFO - 127.0.0.1 - - [17/Oct/2025 23:02:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-17 23:03:02,294 - INFO - Starting SMS test to 09374305151 with 15 services in 1 rounds
+2025-10-17 23:03:03,612 - INFO - Service: Divar, Status: success
+2025-10-17 23:03:03,649 - INFO - Service: Alibaba, Status: success
+2025-10-17 23:03:03,671 - INFO - Service: Namava, Status: success
+2025-10-17 23:03:03,687 - INFO - Service: Basalam, Status: success
+2025-10-17 23:03:03,942 - INFO - Service: Snapp, Status: failed (status: 403)
+2025-10-17 23:03:03,976 - INFO - Service: DigiKala, Status: success
+2025-10-17 23:03:03,978 - INFO - Service: Tap30, Status: failed (status: 406)
+2025-10-17 23:03:04,043 - INFO - Service: Sheypoor, Status: success
+2025-10-17 23:03:04,088 - INFO - Service: Gap, Status: success
+2025-10-17 23:03:04,219 - INFO - Service: Rubika, Status: success
+2025-10-17 23:03:04,238 - INFO - Service: CafeBazaar, Status: failed (status: 400)
+2025-10-17 23:03:04,285 - INFO - Service: Filimo, Status: failed (status: 405)
+2025-10-17 23:03:04,480 - INFO - Service: Sefid, Status: failed (status: 403)
+2025-10-17 23:03:04,579 - INFO - Service: MihanPanel, Status: error: HTTPSConnectionPool(host='panel.mihanpanel.com', port=443): Max retries exceeded with url: /api/v1/send/otp (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B8767EDB70>: Failed to resolve 'panel.mihanpanel.com' ([Errno 11001] getaddrinfo failed)"))
+2025-10-17 23:03:04,864 - INFO - Service: IranTalent, Status: failed (status: 404)
+2025-10-17 23:03:04,872 - INFO - 127.0.0.1 - - [17/Oct/2025 23:03:04] "POST /start_test HTTP/1.1" 200 -
+2025-10-17 23:03:37,303 - INFO - 127.0.0.1 - - [17/Oct/2025 23:03:37] "[35m[1mGET /download_report/sms_report_2025-10-17_23-03-04.json HTTP/1.1[0m" 500 -
+2025-10-17 23:03:37,512 - INFO - 127.0.0.1 - - [17/Oct/2025 23:03:37] "GET /download_report/sms_report_2025-10-17_23-03-04.json?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-10-17 23:03:37,574 - INFO - 127.0.0.1 - - [17/Oct/2025 23:03:37] "GET /download_report/sms_report_2025-10-17_23-03-04.json?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-10-17 23:03:37,950 - INFO - 127.0.0.1 - - [17/Oct/2025 23:03:37] "GET /download_report/sms_report_2025-10-17_23-03-04.json?__debugger__=yes&cmd=resource&f=console.png&s=qujlhz6qN1dCm78EQ7WI HTTP/1.1" 200 -
+2025-10-17 23:03:38,211 - INFO - 127.0.0.1 - - [17/Oct/2025 23:03:38] "GET /download_report/sms_report_2025-10-17_23-03-04.json?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -

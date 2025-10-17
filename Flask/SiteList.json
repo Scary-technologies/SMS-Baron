@@ -1,0 +1,17 @@
+[
+    {"name": "Divar", "url": "https://api.divar.ir/v5/auth/authenticate", "json_key": "phone"},
+    {"name": "Sheypoor", "url": "https://www.sheypoor.com/api/v10.0.0/auth/send", "json_key": "username"},
+    {"name": "Basalam", "url": "https://auth.basalam.com/otp-request", "json_key": "mobile"},
+    {"name": "Alibaba", "url": "https://ws.alibaba.ir/api/v3/account/mobile/otp", "json_key": "phoneNumber"},
+    {"name": "Namava", "url": "https://www.namava.ir/api/v1.0/accounts/registrations/by-phone/request", "json_key": "UserName"},
+    {"name": "DigiKala", "url": "https://api.digikala.com/v1/user/authenticate/", "json_key": "username"},
+    {"name": "Gap", "url": "https://core.gap.im/v1/user/add.json?mobile=", "is_get": true},
+    {"name": "Snapp", "url": "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp", "json_key": "cellphone"},
+    {"name": "Tap30", "url": "https://tap33.me/api/v2/user", "json_key": "phone"},
+    {"name": "Rubika", "url": "https://messengerg2c39.iranlms.ir/", "json_key": "phone_number"},
+    {"name": "Filimo", "url": "https://www.filimo.com/api/fa/v1/user/Authenticate/v2", "json_key": "username"},
+    {"name": "CafeBazaar", "url": "https://api.cafebazaar.ir/rest-v1/process/GetOtpTokenRequest", "json_key": "device_id"},
+    {"name": "Sefid", "url": "https://sefid.app/api/v1/authenticate", "json_key": "mobile"},
+    {"name": "MihanPanel", "url": "https://panel.mihanpanel.com/api/v1/send/otp", "json_key": "mobile"},
+    {"name": "IranTalent", "url": "https://api.irantalent.com/v1/auth/send-otp", "json_key": "mobile"}
+]
